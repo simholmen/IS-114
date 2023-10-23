@@ -1,1 +1,0 @@
-overlay-xy(rectangle(20,160, "solid", "blue"),-70,0,overlay-align("middle", "middle",rectangle(220,20, "solid", "blue"),overlay-xy(rectangle(40,160, "solid", "white"),-60,0,overlay(rectangle(220,40, "solid", "white"),rectangle(220,160, "solid", "crimson")))))
